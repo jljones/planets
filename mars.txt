@@ -1,6 +1,6 @@
 mars.txt
-<<<<<<< HEAD
+
 Another line about the two moons.
 =======
 Added a 2nd line.
->>>>>>> 4e12e95dd4fde9cdbaae388b7a05957375fca55f
+
