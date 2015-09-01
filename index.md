@@ -4,7 +4,7 @@
 +title: Hello!
 +---
 +
-+This site is still in progress.
++This site is still in progress. This is a test file adapted from someone else's site.
 +
 +
 +Lesson Pages
